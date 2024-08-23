@@ -10,6 +10,12 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Linear Algebra course on Udemy.
 
+2.  `02_histogram_proportion.ipynb`:
+
+    -   Statistics: Converting a Distribution from Raw Count to Proportion
+
+    -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Statistics & Machine Learning course on Udemy.
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

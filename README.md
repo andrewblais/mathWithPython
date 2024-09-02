@@ -16,6 +16,12 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Statistics & Machine Learning course on Udemy.
 
+3.  `03_linear_v_log_plots.ipynb`:
+
+    -   Statistics: Comparing Linear and Log-Scaled Plots
+
+    -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of Mike X. Cohen's Statistics & Machine Learning course on Udemy.
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

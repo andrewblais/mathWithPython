@@ -28,6 +28,16 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Linear Algebra course on Udemy.
 
+5.  `05_centr_tend_comparisons.ipynb`:
+
+    -   Comparing MEAN vs. MEDIAN Relationships between Distributions with:
+
+        1. Small vs. Large Outliers
+
+        2. Small vs. Large Dataset Sizes
+
+    -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of Mike X. Cohen's Statistics & Machine Learning course on Udemy.
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais
@@ -38,7 +48,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 -   Hoping to find a Junior-Programmer Position or Internship in the next year.
 
--   Interested in working with others toward AI Alignment.
+-   Interested in working with others toward AI Alignment and Safety.
 
 #### **_Courses:_**
 

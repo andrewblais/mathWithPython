@@ -8,25 +8,25 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   Linear Algebra: Computing Dot Products from Matrix Columns as Vectors
 
-    -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Linear Algebra course on Udemy.
+    -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
 2.  `02_histogram_proportion.ipynb`:
 
     -   Statistics: Converting a Distribution from Raw Count to Proportion
 
-    -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Statistics & Machine Learning course on Udemy.
+    -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
 3.  `03_linear_v_log_plots.ipynb`:
 
     -   Statistics: Comparing Linear and Log-Scaled Plots
 
-    -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of Mike X. Cohen's Statistics & Machine Learning course on Udemy.
+    -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of Mike X. Cohen's Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
 4.  `04_trace_lineear.ipynb`:
 
     -   Linear Algebra: Is Trace a Linear Operator?
 
-    -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Linear Algebra course on Udemy.
+    -   This Python Jupyter notebook consists of my solution to an exercise from Mike X. Cohen's Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
 5.  `05_centr_tend_comparisons.ipynb`:
 
@@ -36,7 +36,13 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
         2. Small vs. Large Dataset Sizes
 
-    -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of Mike X. Cohen's Statistics & Machine Learning course on Udemy.
+    -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of Mike X. Cohen's Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
+
+6.  `06_3D_transform_matrix.ipynb`:
+
+    -   3D Transformation Matrices: Rotate & Stretch/Scale vs. Pure Rotation.
+
+    -   This Python Jupyter notebook consists of suggested extra work to supplement a lesson in 2D Transformation Matrices from Mike X. Cohen's Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
 ## **_About Me:_**
 

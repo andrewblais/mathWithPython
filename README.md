@@ -40,7 +40,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 6.  `06_3D_transform_matrix.ipynb`:
 
-    -   3D Transformation Matrices: Rotate & Stretch/Scale vs. Pure Rotation.
+    -   3D Transformation Matrices in Matrix-Vector Multiplication: Pure Stretch vs. Rotate & Stretch vs. Pure Rotation.
 
     -   This Python Jupyter notebook consists of suggested extra work to supplement a lesson in 2D Transformation Matrices from Mike X. Cohen's Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 

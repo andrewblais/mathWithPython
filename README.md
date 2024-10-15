@@ -54,7 +54,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 -   My name: Andrew Blais
 
--   My website/Python web dev portfolio: https://www.andrewblais.dev/
+-   My website & Python/JavaScript webDev portfolio: https://www.andrewblais.dev/
 
 -   Studying Software Engineering since 2022.
 

@@ -44,6 +44,12 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of suggested extra work to supplement a lesson in 2D Transformation Matrices from Mike X. Cohen's Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
+7.  `07_geomtrans_matmult.ipynb`:
+
+    -   Performing 3D Transformations via Matrix Multiplications: Generate a Circle and Experiment with Different Transformation Matrices.
+
+    -   This Python Jupyter notebook consists of suggested extra work to supplement a matrix transformation multiplication coding challenge from Mike X. Cohen's Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

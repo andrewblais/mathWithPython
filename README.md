@@ -50,6 +50,12 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of suggested extra work to supplement a matrix transformation multiplication coding challenge from Mike X. Cohen's Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
+8.  `08_poisson_pop_samp.ipynb`:
+
+    -   Comparing Population vs. Sample Variance in Poisson Distrubutions.
+
+    -   This analysis supplements a lesson from the Descriptive Statistics section of Mike X. Cohen's Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

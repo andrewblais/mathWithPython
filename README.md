@@ -62,6 +62,16 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to a math/coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
+10. `10_mat_red_rank_sca_mult.ipynb`:
+
+    -   Matrix Multiplication:
+
+        -   Creating Reduced-Rank Matrices
+
+        -   Investigating Effect of Scalar on Rank as a Linear Operator
+
+    -   This Python Jupyter notebook consists of my solution to a math/coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

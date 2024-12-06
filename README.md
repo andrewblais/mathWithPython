@@ -72,6 +72,12 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to a math/coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
+11. `11_histogram_bins.ipynb`:
+
+    -   Number of Histogram Bins: Different Methods of Calculating `k`.
+
+    -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

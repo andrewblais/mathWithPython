@@ -4,7 +4,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 ## **_Repository Contents:_**
 
-1./projects/.  `01_dot_product_vectors.ipynb`:
+1.  `./projects/01_dot_product_vectors.ipynb`:
 
     -   Linear Algebra: Computing Dot Products from Matrix Columns as Vectors
 

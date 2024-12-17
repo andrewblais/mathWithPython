@@ -78,6 +78,14 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
+12. [`./projects/12_vec_col_mat.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/12_vec_col_mat.ipynb):
+
+    -   Visualization: is some Vector in the Column Space of some Matrix?
+
+        -   $\textsf{v}\in\textsf{\textit{C}(\textbf{M})}?$
+
+    -   This Python Jupyter notebook extrapolates from an exercise in [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

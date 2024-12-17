@@ -173,7 +173,10 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# Termporary:
+# Temporary:
 /0TBD_matrix_manip_01.ipynb
+
+# anb:
+/.projectNotes
 
 # End of https://www.toptal.com/developers/gitignore/api/python

@@ -80,7 +80,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 12. [`./projects/12_vec_col_mat.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/12_vec_col_mat.ipynb):
 
-    -   Visualization: is some Vector in the Column Space of some Matrix?
+    -   Visualization: Is some Vector in the Column Space of some Matrix?
 
         -   $\textsf{v}\in\textsf{\textit{C}(\textbf{M})}?$
 

@@ -40,25 +40,25 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 6.  [`./projects/m06_3D_transform_matrix.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m06_3D_transform_matrix.ipynb):
 
-    -   3D Transformation Matrices in Matrix-Vector Multiplication: Pure Stretch vs. Rotate & Stretch vs. Pure Rotation.
+    -   3D Transformation Matrices in Matrix-Vector Multiplication: Pure Stretch vs. Rotate & Stretch vs. Pure Rotation
 
     -   This Python Jupyter notebook consists of suggested extra work to supplement a lesson in 2D Transformation Matrices from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
 7.  [`./projects/m07_geomtrans_matmult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m07_geomtrans_matmult.ipynb):
 
-    -   Performing 3D Transformations via Matrix Multiplications: Generate a Circle and Experiment with Different Transformation Matrices.
+    -   Performing 3D Transformations via Matrix Multiplications: Generate a Circle and Experiment with Different Transformation Matrices
 
     -   This Python Jupyter notebook consists of suggested extra work to supplement a matrix transformation multiplication coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
 8.  [`./projects/m08_poisson_pop_samp.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m08_poisson_pop_samp.ipynb):
 
-    -   Comparing Population vs. Sample Variance in Poisson Distrubutions.
+    -   Comparing Population vs. Sample Variance in Poisson Distrubutions
 
     -   This analysis supplements a lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
 9.  [`./projects/m09_fourier_trans_mult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m09_fourier_trans_mult.ipynb):
 
-    -   Matrix Multiplication: Fourier Transform.
+    -   Matrix Multiplication: Fourier Transform
 
     -   This Python Jupyter notebook consists of my solution to a math/coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
@@ -74,7 +74,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 11. [`./projects/m11_histogram_bins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m11_histogram_bins.ipynb):
 
-    -   Number of Histogram Bins: Different Methods of Calculating `k`.
+    -   Number of Histogram Bins: Different Methods of Calculating `k`
 
     -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
@@ -88,7 +88,13 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 13. [`./projects/m13_dual_violins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m13_dual_violins.ipynb):
 
-    -   Constraining, Measuring and Plotting `exp(Gaussian)` Distributions.
+    -   Constraining, Measuring and Plotting `exp(Gaussian)` Distributions
+
+    -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
+
+14. [`./projects/m14_entropy_hist_bins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m14_entropy_hist_bins.ipynb):
+
+    -   Computing Entropy Based on an Increasing Number of Histogram Bins
 
     -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 

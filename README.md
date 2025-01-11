@@ -98,6 +98,12 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
+15. [`./projects/m15_invert_minmax.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m15_invert_minmax.ipynb):
+
+    -   Convert a Distribution using Min-Max Scaling, Invert Back and Compare
+
+    -   This Python Jupyter Notebook is my answer to a coding challenge from the Data Normalization and Outliers section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
+
 ## **_About Me:_**
 
 -   My name: Andrew Blais

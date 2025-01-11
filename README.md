@@ -10,7 +10,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to an exercise from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-2.  [`./projects/m02_histogram_proportion.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m02_histogram_proportion.ipynb):
+2.  [`./projects/m02_hist_perc_prop.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m02_hist_perc_prop.ipynb):
 
     -   Statistics: Converting a Distribution from Raw Count to Proportion
 

@@ -2,33 +2,47 @@
 
 Math exercises paralleling my coursework in Linear Algebra, Statistics and Machine Learning with Python.
 
-## **_Repository Contents:_**
+## **_Repo Note:_**
 
-1.  [`./projects/m01_dot_product_vectors.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m01_dot_product_vectors.ipynb):
+-   This repository is broken into two parts/directories:
+
+    -   `./studyProjects`
+
+        -   Consists of exercises/problems based directly or closely extrapolating on my coursework.
+
+            -   See [Mike X. Cohen's](https://www.mikexcohen.com/) courses at [Udemy](https://www.udemy.com/user/mike-x-cohen/).
+
+    -   `./capstoneProjects`
+
+        -   Entirely original problems/plots/code.
+
+## **_`/studyProjects`:_**
+
+1.  [`./studyProjects/stu01_dot_product_vectors.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu01_dot_product_vectors.ipynb):
 
     -   Linear Algebra: Computing Dot Products from Matrix Columns as Vectors
 
     -   This Python Jupyter notebook consists of my solution to an exercise from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-2.  [`./projects/m02_hist_perc_prop.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m02_hist_perc_prop.ipynb):
+2.  [`./studyProjects/stu02_hist_perc_prop.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu02_hist_perc_prop.ipynb):
 
     -   Statistics: Converting a Distribution from Raw Count to Proportion
 
     -   This Python Jupyter notebook consists of my solution to an exercise from [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-3.  [`./projects/m03_linear_v_log_plots.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m03_linear_v_log_plots.ipynb):
+3.  [`./studyProjects/stu03_linear_v_log_plots.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu03_linear_v_log_plots.ipynb):
 
     -   Statistics: Comparing Linear and Log-Scaled Plots
 
     -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-4.  [`./projects/m04_trace_lineear.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m04_trace_lineear.ipynb):
+4.  [`./studyProjects/stu04_trace_lineear.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu04_trace_lineear.ipynb):
 
     -   Linear Algebra: Is Trace a Linear Operator?
 
     -   This Python Jupyter notebook consists of my solution to an exercise from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-5.  [`./projects/m05_centr_tend_comparisons.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m05_centr_tend_comparisons.ipynb):
+5.  [`./studyProjects/stu05_centr_tend_comparisons.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu05_centr_tend_comparisons.ipynb):
 
     -   Comparing MEAN vs. MEDIAN Relationships between Distributions with:
 
@@ -38,31 +52,31 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-6.  [`./projects/m06_3D_transform_matrix.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m06_3D_transform_matrix.ipynb):
+6.  [`./studyProjects/stu06_3D_transform_matrix.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu06_3D_transform_matrix.ipynb):
 
     -   3D Transformation Matrices in Matrix-Vector Multiplication: Pure Stretch vs. Rotate & Stretch vs. Pure Rotation
 
     -   This Python Jupyter notebook consists of suggested extra work to supplement a lesson in 2D Transformation Matrices from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-7.  [`./projects/m07_geomtrans_matmult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m07_geomtrans_matmult.ipynb):
+7.  [`./studyProjects/stu07_geomtrans_matmult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu07_geomtrans_matmult.ipynb):
 
     -   Performing 3D Transformations via Matrix Multiplications: Generate a Circle and Experiment with Different Transformation Matrices
 
     -   This Python Jupyter notebook consists of suggested extra work to supplement a matrix transformation multiplication coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-8.  [`./projects/m08_poisson_pop_samp.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m08_poisson_pop_samp.ipynb):
+8.  [`./studyProjects/stu08_poisson_pop_samp.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu08_poisson_pop_samp.ipynb):
 
     -   Comparing Population vs. Sample Variance in Poisson Distrubutions
 
     -   This analysis supplements a lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-9.  [`./projects/m09_fourier_trans_mult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m09_fourier_trans_mult.ipynb):
+9.  [`./studyProjects/stu09_fourier_trans_mult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu09_fourier_trans_mult.ipynb):
 
     -   Matrix Multiplication: Fourier Transform
 
     -   This Python Jupyter notebook consists of my solution to a math/coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-10. [`./projects/m10_mat_red_rank_sca_mult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m10_mat_red_rank_sca_mult.ipynb):
+10. [`./studyProjects/stu10_mat_red_rank_sca_mult.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu10_mat_red_rank_sca_mult.ipynb):
 
     -   Matrix Multiplication:
 
@@ -72,13 +86,13 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to a math/coding challenge from [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-11. [`./projects/m11_histogram_bins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m11_histogram_bins.ipynb):
+11. [`./studyProjects/stu11_histogram_bins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu11_histogram_bins.ipynb):
 
     -   Number of Histogram Bins: Different Methods of Calculating `k`
 
     -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-12. [`./projects/m12_vec_col_mat.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m12_vec_col_mat.ipynb):
+12. [`./studyProjects/stu12_vec_col_mat.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu12_vec_col_mat.ipynb):
 
     -   Visualization: Is some Vector in the Column Space of some Matrix?
 
@@ -86,23 +100,29 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook extrapolates from an exercise in [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course on [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
 
-13. [`./projects/m13_dual_violins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m13_dual_violins.ipynb):
+13. [`./studyProjects/stu13_dual_violins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu13_dual_violins.ipynb):
 
     -   Constraining, Measuring and Plotting `exp(Gaussian)` Distributions
 
     -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-14. [`./projects/m14_entropy_hist_bins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m14_entropy_hist_bins.ipynb):
+14. [`./studyProjects/stu14_entropy_hist_bins.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu14_entropy_hist_bins.ipynb):
 
     -   Computing Entropy Based on an Increasing Number of Histogram Bins
 
     -   This Python Jupyter Notebook is my extrapolation on a coding lesson from the Descriptive Statistics section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-15. [`./projects/m15_invert_minmax.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/projects/m15_invert_minmax.ipynb):
+15. [`./studyProjects/stu15_invert_minmax.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu15_invert_minmax.ipynb):
 
     -   Convert a Distribution using Min-Max Scaling, Invert Back and Compare
 
     -   This Python Jupyter Notebook is my answer to a coding challenge from the Data Normalization and Outliers section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
+
+## **_`/capstoneProjects`:_**
+
+1.  [`./capstoneProjects/cap01_tbd.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/capstoneProjects/cap01_tbd.ipynb):
+
+    -   Just a template for now, soon to be completed...
 
 ## **_About Me:_**
 
@@ -110,7 +130,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
 -   My website & Python/JavaScript webDev portfolio: https://www.andrewblais.dev/
 
--   Studying Software Engineering since 2022.
+-   Studying Software Engineering and related Mathematics (Statistics, Linear Algebra, Calculus) since 2022.
 
 -   Hoping to find a Junior-Programmer Position or Internship in the next year.
 
@@ -147,3 +167,5 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
     -   Comfortable working with CSS and HTML
 
     -   Node.js and Express, ejs
+
+    -   Currently learning React

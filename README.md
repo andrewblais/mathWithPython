@@ -36,7 +36,7 @@ Math exercises paralleling my coursework in Linear Algebra, Statistics and Machi
 
     -   This Python Jupyter notebook consists of my solution to an exercise from the Data Visualization section of [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics & Machine Learning course on [Udemy](https://www.udemy.com/course/statsml_x).
 
-4.  [`./studyProjects/stu04_trace_lineear.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu04_trace_lineear.ipynb):
+4.  [`./studyProjects/stu04_trace_linear.ipynb`](https://github.com/andrewblais/mathWithPython/blob/main/studyProjects/stu04_trace_linear.ipynb):
 
     -   Linear Algebra: Is Trace a Linear Operator?
 

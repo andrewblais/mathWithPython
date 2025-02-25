@@ -180,7 +180,6 @@ pyrightconfig.json
 /.projectNotes
 
 # anb under construction:
-/linearAlgebra/la012.ipynb
 /statsMachineLearning/sml009_z_vs_modz.ipynb
 /statsMachineLearning/sml010_eucl_dist_outl.ipynb
 

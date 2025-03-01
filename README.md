@@ -14,7 +14,7 @@ Math exercises paralleling my coursework in Linear Algebra and Statistics/Machin
 
     -   `./statsMachineLearning`
 
-        -   Consists of exercises/problems based directly or closely extrapolating on my studies of Statistics and Machine Learning.
+        -   Consists of exercises/problems based directly or closely extrapolating on my studies of Statistics and Machine .
 
             -   See [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics/Machine Learning course at [Udemy](https://www.udemy.com/course/statsml_x).
 

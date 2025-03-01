@@ -180,8 +180,8 @@ pyrightconfig.json
 /.projectNotes
 
 # anb under construction:
-/statsMachineLearning/sml009_z_vs_modz.ipynb
 /statsMachineLearning/sml010_eucl_dist_outl.ipynb
+/statsMachineLearning/sml011_z_vs_trim.ipynb
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python

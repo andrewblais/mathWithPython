@@ -181,7 +181,6 @@ pyrightconfig.json
 
 # anb under construction:
 /statsMachineLearning/sml010_eucl_dist_outl.ipynb
-/statsMachineLearning/sml011_z_vs_trim.ipynb
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python

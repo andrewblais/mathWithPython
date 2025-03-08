@@ -180,6 +180,6 @@ pyrightconfig.json
 /.projectNotes
 
 # anb under construction:
-/statsMachineLearning/sml010_multiv_outl.ipynb
+# /statsMachineLearning/sml010_multiv_outl.ipynb
 
 # End of https://www.toptal.com/developers/gitignore/api/python

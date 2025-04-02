@@ -26,7 +26,7 @@ Math exercises paralleling my coursework in Linear Algebra and Statistics/Machin
 
 -   My name: Andrew Blais
 
--   My website & Python/JavaScript webDev portfolio: https://www.andrewblais.dev/
+-   My website & Python/JavaScript webDev portfolio: https://www.andrewblais.dev
 
 -   Studying Software Development and related Mathematics (Statistics, Linear Algebra, Calculus) since 2022.
 
@@ -48,11 +48,11 @@ Math exercises paralleling my coursework in Linear Algebra and Statistics/Machin
 
     -   All the Python basics and intermediates, including OOP
 
-    -   Full-Stack Development, specializing in Flask
+    -   Full-Stack Development (Flask)
 
-    -   NumPy, SymPy, Matplotlib, Seaborn, Plotly, Jupyter Notebooks
+    -   NumPy, SymPy, Matplotlib, Seaborn, Plotly, Jupyter Notebooks...
 
-    -   Data Science, matrix manipulation, mathematical calculation with Python
+    -   Data Science/Visualization, matrix manipulation, mathematical calculation with Python
 
     -   Database/SQL/PostgreSQL
 
@@ -66,8 +66,6 @@ Math exercises paralleling my coursework in Linear Algebra and Statistics/Machin
 
     -   Comfortable working with CSS and HTML
 
-    -   Node.js and Express, ejs
+    -   Node.js, React, Express
 
     -   Database/SQL/PostgreSQL
-
-    -   Currently learning React

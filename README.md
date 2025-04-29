@@ -1,71 +1,92 @@
-## **_About:_**
+# 📚 Math With Python
 
-Math exercises paralleling my coursework in Linear Algebra and Statistics/Machine Learning, both the theory and implementation via Python.
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org)
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org)
+![Math/AI Focused](https://img.shields.io/badge/Focus-Math%2FAI-blueviolet.svg)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-## **_Repo Note:_**
+> A growing collection of math-focused notebooks and scripts paralleling my studies in **Linear Algebra**, **Statistics**, and **Machine Learning** — blending theoretical insight with Python-based implementation.
 
--   This repository is broken into a few main parts:
+---
 
-    -   `./linearAlgebra`
+## ✍️ About the Repository
 
-        -   Consists of exercises/problems based directly or closely extrapolating on my studies in Linear Algebra.
+This repo reflects my journey as a self-taught developer deeply engaged in mathematics and applied programming.  
+It includes structured coursework-based exercises, hands-on problem solving, and exploratory math projects developed independently.
 
-            -   See [Mike X. Cohen's](https://www.mikexcohen.com/) Linear Algebra course at [Udemy](https://www.udemy.com/course/linear-algebra-theory-and-implementation).
+---
 
-    -   `./statsMachineLearning`
+## 📂 Repo Structure
 
-        -   Consists of exercises/problems based directly or closely extrapolating on my studies of Statistics and Machine .
+```text
+.
+├── linearAlgebra/            # Exercises from Linear Algebra coursework
+├── statsMachineLearning/     # Exercises from Stats & Machine Learning coursework
+├── variousProjects/          # Independent math projects and experiments
+├── templates/                # Reusable notebook/script templates for notes
+├── requirements.txt          # Project dependencies
+└── LICENSE                   # MIT License
+```
 
-            -   See [Mike X. Cohen's](https://www.mikexcohen.com/) Statistics/Machine Learning course at [Udemy](https://www.udemy.com/course/statsml_x).
+---
 
-    -   `./variousProjects`
+## 🎓 Study Sources
 
-        -   Stuff I created from my brain.
+- [Mike X. Cohen – Linear Algebra (Udemy)](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
+- [Mike X. Cohen – Statistics & Machine Learning (Udemy)](https://www.udemy.com/course/statsml_x/)
 
-## **_About Me:_**
+These courses emphasize a dual focus on **mathematical understanding** and **Python implementation**.
 
--   My name: Andrew Blais
+---
 
--   My website & Python/JavaScript webDev portfolio: https://www.andrewblais.dev
+## 🌟 Highlights
 
--   Studying Software Development and related Mathematics (Statistics, Linear Algebra, Calculus) since 2022.
+From the most recent Jupyter notebooks:
 
--   Hoping to find a Junior-Programmer Position or Internship in the next year.
+- 🧮 **Pseudo-inverse Exploration** — Compute and verify pseudoinverses using multiple techniques
+- 🔁 **Left & Right Inverses for Non-Square Matrices** — Explore solvability in under/overdetermined systems
+- 🧠 **Step-by-Step Matrix Inversion** — Manual breakdown of the algorithm behind inverting a matrix
+- 📊 **Multivariate Outlier Detection** — Use distance-based metrics to spot and visualize outliers
+- 📉 **Z-scores vs Trimmed Means** — Compare robustness of standard vs trimmed methods in outlier removal
+- 🎯 **Probability vs Odds** — Interactive explanation of odds vs probability, useful for classification models
 
--   Interested in working with others toward AI Alignment and Safety.
+---
 
-#### **_Courses:_**
+## 🛠️ Skills Practiced
 
--   Completed two comprehensive Python bootcamps
+- **Math Domains**:
+  - Linear Algebra, Statistics, and Machine Learning fundamentals
+- **Python Development**:
+  - OOP and modular scripting
+  - Jupyter Notebooks + LaTeX math rendering
+  - NumPy, SymPy, Matplotlib, Seaborn, Plotly
+  - Custom visualizations and exploratory analysis
+- **Web Development (parallel study)**:
+  - Full-Stack JavaScript (Node.js, React, Express)
+  - Flask (Python)
+  - SQL/PostgreSQL databases
 
--   Currently studying two JavaScript Web Development courses
+---
 
--   Also studying Linear Algebra, Statistics and Machine Learning through theory and Python implementation.
+## 👨‍💻 About Me
 
-#### **_Programming Skills:_**
+I'm **Andrew Blais**, a self-taught, full-time student focused on software development, mathematics, and AI theory.
 
--   Python:
+- 📚 Studying since 2022 — now fluent in Python and progressing rapidly in JavaScript and full-stack dev
+- 🧠 Passionate about **AI Alignment and Safety**
+- 💬 Open to internships, junior dev roles, and meaningful collaboration
+- 🌍 Always learning — from bootcamps, books, and building real things
 
-    -   All the Python basics and intermediates, including OOP
+> Let’s build a safer, more thoughtful future — one script at a time.
 
-    -   Full-Stack Development (Flask)
+---
 
-    -   NumPy, SymPy, Matplotlib, Seaborn, Plotly, Jupyter Notebooks...
+## 📜 License
 
-    -   Data Science/Visualization, matrix manipulation, mathematical calculation with Python
+This project is licensed under the [MIT License](./LICENSE).
 
-    -   Database/SQL/PostgreSQL
+---
 
-    -   LaTeX formatting and outputting formatted math equations programatically
-
-    -   Currently working on Data Structures and Algorithms for general skill and coding interviews
-
--   JavaScript:
-
-    -   Full-Stack JavaScript Development
-
-    -   Comfortable working with CSS and HTML
-
-    -   Node.js, React, Express
-
-    -   Database/SQL/PostgreSQL
+_Andrew Blais – Boston, MA_  
+📂 GitHub: [github.com/andrewblais](https://github.com/andrewblais)  
+🌐 Website: [andrewblais.dev](https://www.andrewblais.dev)

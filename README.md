@@ -12,6 +12,7 @@
 ## ✍️ About the Repository
 
 This repo reflects my journey as a self-taught developer deeply engaged in mathematics and applied programming.  
+
 It includes structured coursework-based exercises, hands-on problem solving, and exploratory math projects developed independently.
 
 ---
@@ -32,8 +33,8 @@ It includes structured coursework-based exercises, hands-on problem solving, and
 
 ## 🎓 Study Sources
 
-- [Mike X. Cohen – Linear Algebra (Udemy)](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
-- [Mike X. Cohen – Statistics & Machine Learning (Udemy)](https://www.udemy.com/course/statsml_x/)
+-   [Mike X. Cohen – Linear Algebra (Udemy)](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
+-   [Mike X. Cohen – Statistics & Machine Learning (Udemy)](https://www.udemy.com/course/statsml_x/)
 
 These courses emphasize a dual focus on **mathematical understanding** and **Python implementation**.
 
@@ -43,41 +44,39 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
-- 🧮 **Pseudo-inverse Exploration** — Compute and verify pseudoinverses using multiple techniques
-- 🔁 **Left & Right Inverses for Non-Square Matrices** — Explore solvability in under/overdetermined systems
-- 🧠 **Step-by-Step Matrix Inversion** — Manual breakdown of the algorithm behind inverting a matrix
-- 📊 **Multivariate Outlier Detection** — Use distance-based metrics to spot and visualize outliers
-- 📉 **Z-scores vs Trimmed Means** — Compare robustness of standard vs trimmed methods in outlier removal
-- 🎯 **Probability vs Odds** — Interactive explanation of odds vs probability, useful for classification models
+-   🧮 **Pseudo-inverse Exploration** — Compute and verify pseudoinverses using multiple techniques
+-   🔁 **Left & Right Inverses for Non-Square Matrices** — Explore solvability in under/overdetermined systems
+-   🧠 **Step-by-Step Matrix Inversion** — Manual breakdown of the algorithm behind inverting a matrix
+-   📊 **Multivariate Outlier Detection** — Use distance-based metrics to spot and visualize outliers
+-   📉 **Z-scores vs Trimmed Means** — Compare robustness of standard vs trimmed methods in outlier removal
+-   🎯 **Probability vs Odds** — Interactive explanation of odds vs probability, useful for classification models
 
 ---
 
 ## 🛠️ Skills Practiced
 
-- **Math Domains**:
-  - Linear Algebra, Statistics, and Machine Learning fundamentals
-- **Python Development**:
-  - OOP and modular scripting
-  - Jupyter Notebooks + LaTeX math rendering
-  - NumPy, SymPy, Matplotlib, Seaborn, Plotly
-  - Custom visualizations and exploratory analysis
-- **Web Development (parallel study)**:
-  - Full-Stack JavaScript (Node.js, React, Express)
-  - Flask (Python)
-  - SQL/PostgreSQL databases
+-   **Math Domains**:
+    -   Linear Algebra, Statistics, and Machine Learning fundamentals
+-   **Python Development**:
+    -   OOP and modular scripting
+    -   Jupyter Notebooks + LaTeX math rendering
+    -   NumPy, SymPy, Matplotlib, Seaborn, Plotly
+    -   Custom visualizations and exploratory analysis
+-   **Web Development (parallel study)**:
+    -   Full-Stack JavaScript (Node.js, React, Express)
+    -   Flask (Python)
+    -   SQL/PostgreSQL databases
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Andrew Blais**, a self-taught, full-time student focused on software development, mathematics, and AI theory.
+I'm a self-taught, full-time student focused on software development, mathematics, and AI theory.
 
-- 📚 Studying since 2022 — now fluent in Python and progressing rapidly in JavaScript and full-stack dev
-- 🧠 Passionate about **AI Alignment and Safety**
-- 💬 Open to internships, junior dev roles, and meaningful collaboration
-- 🌍 Always learning — from bootcamps, books, and building real things
-
-> Let’s build a safer, more thoughtful future — one script at a time.
+-   📚 Studying since 2022 — now fluent in Python and progressing rapidly in JavaScript and full-stack dev
+-   🧠 Passionate about **AI Alignment and Safety**
+-   💬 Open to internships, junior dev roles, and meaningful collaboration
+-   🌍 Always learning — from bootcamps, books, and building real things
 
 ---
 

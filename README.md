@@ -59,6 +59,8 @@ From the most recent Jupyter notebooks:
 
 -   🪓 **Vector Decomposition** — Understanding how a vector is decomposed relative to some other reference vector + visualization.
 
+-   🤞 **PDFs vs. CDFs** — Building intuition around a probability density function and its cumulative distribution function through visualization.
+
 ---
 
 ## 🛠️ Skills Practiced

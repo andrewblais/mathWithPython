@@ -45,11 +45,11 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
--   🧮 [**Pseudo-Inverse Exploration**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la014_pseudo_2_looks.ipynb) — Compute and verify pseudoinverses using multiple techniques.
+-   [**Pseudo-Inverse Exploration**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la014_pseudo_2_looks.ipynb) — Compute and verify pseudoinverses using multiple techniques.
 
--   🔁 [**Left & Right Inverses for Non-Square Matrices**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la013_lr_inv_nonsq.ipynb) — Explore solvability in under/overdetermined systems.
+-   [**Left & Right Inverses for Non-Square Matrices**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la013_lr_inv_nonsq.ipynb) — Explore solvability in under/overdetermined systems.
 
--   🙃 [**Step-by-Step Matrix Inversion**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la012_mat_inv_steps.ipynb) — Manual breakdown of the algorithm behind inverting a matrix.
+-   [**Step-by-Step Matrix Inversion**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la012_mat_inv_steps.ipynb) — Manual breakdown of the algorithm behind inverting a matrix.
 
 -   [**Multivariate Outlier Detection**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml010_multiv_outl.ipynb) — Use distance-based metrics to spot and visualize outliers.
 

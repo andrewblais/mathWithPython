@@ -1,4 +1,4 @@
-# 📚 Math With Python
+# Math With Python
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org)
 [![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org)
@@ -9,7 +9,7 @@
 
 ---
 
-## ✍️ About the Repository
+## About the Repository
 
 This repo reflects my journey as a self-taught developer studying mathematics and applied programming.
 
@@ -17,7 +17,7 @@ It includes structured coursework-based exercises, hands-on problem solving, and
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```text
 .
@@ -31,7 +31,7 @@ It includes structured coursework-based exercises, hands-on problem solving, and
 
 ---
 
-## 🎓 Study Sources
+## Study Sources
 
 -   [Mike X. Cohen – Linear Algebra (Udemy)](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
 
@@ -41,7 +41,7 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 From the most recent Jupyter notebooks:
 
@@ -51,21 +51,21 @@ From the most recent Jupyter notebooks:
 
 -   🙃 [**Step-by-Step Matrix Inversion**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la012_mat_inv_steps.ipynb) — Manual breakdown of the algorithm behind inverting a matrix.
 
--   👾 [**Multivariate Outlier Detection**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml010_multiv_outl.ipynb) — Use distance-based metrics to spot and visualize outliers.
+-   [**Multivariate Outlier Detection**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml010_multiv_outl.ipynb) — Use distance-based metrics to spot and visualize outliers.
 
--   📉 [**Z-scores vs Trimmed Means**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml011_z_vs_trim.ipynb) — Compare robustness of standard vs trimmed methods in outlier removal.
+-   [**Z-scores vs Trimmed Means**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml011_z_vs_trim.ipynb) — Compare robustness of standard vs trimmed methods in outlier removal.
 
--   🎯 [**Probability vs Odds**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml012_prob_odds.ipynb) — Interactive explanation of odds vs probability, useful for classification models.
+-   [**Probability vs Odds**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml012_prob_odds.ipynb) — Interactive explanation of odds vs probability, useful for classification models.
 
--   🪓 [**Vector Decomposition**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la015_vec_decomp.ipynb) — Understanding how a vector is decomposed relative to some other reference vector + visualization.
+-   [**Vector Decomposition**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la015_vec_decomp.ipynb) — Understanding how a vector is decomposed relative to some other reference vector + visualization.
 
--   🤞 [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) — Building intuition around a probability density function and its cumulative distribution function through visualization.
+-   [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) — Building intuition around a probability density function and its cumulative distribution function through visualization.
 
 -   🪢 [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) — Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
 
 ---
 
-## 🛠️ Skills Practiced
+## Skills Practiced
 
 -   **Math Domains**:
     -   Linear Algebra, Statistics, and Machine Learning fundamentals
@@ -81,23 +81,23 @@ From the most recent Jupyter notebooks:
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 A self-taught, full-time student focused on software development, mathematics, and AI Saftey Theory.
 
--   📚 Studying since 2022 — developing fluency in Python and progressing rapidly in JavaScript and full-stack dev.
--   🧠 Passionate about **AI Alignment and Safety**.
--   💬 Open to internships, junior dev roles, and meaningful collaboration.
--   🌍 Always learning — from bootcamps, online documentation/materials/books, and building real things.
+-   Studying since 2022 — developing fluency in Python and progressing rapidly in JavaScript and full-stack dev.
+-   Passionate about **AI Alignment and Safety**.
+-   Open to internships, junior dev roles, and meaningful collaboration.
+-   Always learning — from bootcamps, online documentation/materials/books, and building real things.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
 _Andrew Blais – Boston, MA_  
-📂 GitHub: [github.com/andrewblais](https://github.com/andrewblais)  
-🌐 Website: [andrewblais.dev](https://www.andrewblais.dev)
+GitHub: [github.com/andrewblais](https://github.com/andrewblais)  
+Website: [andrewblais.dev](https://www.andrewblais.dev)

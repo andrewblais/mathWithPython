@@ -61,7 +61,7 @@ From the most recent Jupyter notebooks:
 
 -   [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) — Building intuition around a probability density function and its cumulative distribution function through visualization.
 
--   🪢 [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) — Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
+-   [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) — Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
 
 ---
 

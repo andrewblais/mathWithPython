@@ -139,6 +139,9 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+# VS Code settings
+.vscode/
+
 # mkdocs documentation
 /site
 
@@ -173,11 +176,10 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# Temporary:
-/0TBD_matrix_manip_01.ipynb
-
-# anb:
+# Custom:
 /.projectNotes
+/0TBD_matrix_manip_01.ipynb
+linearAlgebra/la017_qr_decomp_manip.ipynb
 
 # anb under construction:
 # /statsMachineLearning/sml010_multiv_outl.ipynb

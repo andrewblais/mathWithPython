@@ -63,6 +63,8 @@ From the most recent Jupyter notebooks:
 
 -   [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) — Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
 
+-   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) — Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of — _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.
+
 ---
 
 ## Skills Practiced

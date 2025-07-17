@@ -179,7 +179,6 @@ pyrightconfig.json
 # Custom:
 /.projectNotes
 /0TBD_matrix_manip_01.ipynb
-linearAlgebra/la017_qr_decomp_manip.ipynb
 
 # anb under construction:
 # /statsMachineLearning/sml010_multiv_outl.ipynb

@@ -45,25 +45,17 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
--   [**Pseudo-Inverse Exploration**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la014_pseudo_2_looks.ipynb) — Compute and verify pseudoinverses using multiple techniques.
+-   [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) — Takes mock data, builds a Least Squares model, visualizes and evaluates the results.
 
--   [**Left & Right Inverses for Non-Square Matrices**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la013_lr_inv_nonsq.ipynb) — Explore solvability in under/overdetermined systems.
-
--   [**Step-by-Step Matrix Inversion**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la012_mat_inv_steps.ipynb) — Manual breakdown of the algorithm behind inverting a matrix.
-
--   [**Multivariate Outlier Detection**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml010_multiv_outl.ipynb) — Use distance-based metrics to spot and visualize outliers.
-
--   [**Z-scores vs Trimmed Means**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml011_z_vs_trim.ipynb) — Compare robustness of standard vs trimmed methods in outlier removal.
-
--   [**Probability vs Odds**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml012_prob_odds.ipynb) — Interactive explanation of odds vs probability, useful for classification models.
-
--   [**Vector Decomposition**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la015_vec_decomp.ipynb) — Understanding how a vector is decomposed relative to some other reference vector + visualization.
-
--   [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) — Building intuition around a probability density function and its cumulative distribution function through visualization.
+-   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) — Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of — _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.
 
 -   [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) — Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
 
--   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) — Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of — _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.
+-   [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) — Building intuition around a probability density function and its cumulative distribution function through visualization.
+
+-   [**Probability vs Odds**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml012_prob_odds.ipynb) — Interactive explanation of odds vs probability, useful for classification models.
+
+-   [**Z-scores vs Trimmed Means**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml011_z_vs_trim.ipynb) — Compare robustness of standard vs trimmed methods in outlier removal.
 
 ---
 

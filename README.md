@@ -45,6 +45,8 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
+-   [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) — Harvest complex eigenvalues from random matrices, make something funky...
+
 -   [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) — Takes mock data, builds a Least Squares model, visualizes and evaluates the results.
 
 -   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) — Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of — _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.

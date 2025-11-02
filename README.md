@@ -45,6 +45,8 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
+-   [**Visualizing the Law of Large Numbers and the Central Limit Theorem**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml014_lln_clt.ipynb) — Analyzes several distributions to demonstrate and visualize the law of large numbers and the central limit theorem.
+
 -   [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) — Harvest complex eigenvalues from random matrices, make something funky...
 
 -   [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) — Takes mock data, builds a Least Squares model, visualizes and evaluates the results.

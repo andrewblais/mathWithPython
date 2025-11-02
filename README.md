@@ -5,13 +5,13 @@
 ![Math/AI Focused](https://img.shields.io/badge/Focus-Math%2FAI-blueviolet.svg)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-> A growing collection of math-focused notebooks and scripts paralleling my studies in **Linear Algebra**, **Statistics**, and **Machine Learning** — blending theory with Python-based implementation.
+> A collection of math-related notebooks and scripts paralleling my studies in **Linear Algebra**, **Statistics**, and **Machine Learning**.
 
 ---
 
 ## About the Repository
 
-This repo reflects my journey as a self-taught developer studying mathematics and applied programming.
+This repo reflects homework/practice/projects I worked on as a self-taught developer learning mathematics and applied programming.
 
 It includes structured coursework-based exercises, hands-on problem solving, and exploratory math projects developed independently.
 
@@ -45,21 +45,21 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
--   [**Visualizing the Law of Large Numbers and the Central Limit Theorem**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml014_lln_clt.ipynb) — Analyzes several distributions to demonstrate and visualize the law of large numbers and the central limit theorem.
+-   [**Visualizing the Law of Large Numbers and the Central Limit Theorem**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml014_lln_clt.ipynb) -- Analyzes several distributions to demonstrate and visualize the law of large numbers and the central limit theorem.
 
--   [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) — Harvest complex eigenvalues from random matrices, make something funky...
+-   [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) -- Harvest complex eigenvalues from random matrices, make something funky...
 
--   [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) — Takes mock data, builds a Least Squares model, visualizes and evaluates the results.
+-   [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) -- Takes mock data, builds a Least Squares model, visualizes and evaluates the results.
 
--   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) — Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of — _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.
+-   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) -- Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of -- _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.
 
--   [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) — Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
+-   [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) -- Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
 
--   [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) — Building intuition around a probability density function and its cumulative distribution function through visualization.
+-   [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) -- Building intuition around a probability density function and its cumulative distribution function through visualization.
 
--   [**Probability vs Odds**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml012_prob_odds.ipynb) — Interactive explanation of odds vs probability, useful for classification models.
+-   [**Probability vs Odds**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml012_prob_odds.ipynb) -- Interactive explanation of odds vs probability, useful for classification models.
 
--   [**Z-scores vs Trimmed Means**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml011_z_vs_trim.ipynb) — Compare robustness of standard vs trimmed methods in outlier removal.
+-   [**Z-scores vs Trimmed Means**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml011_z_vs_trim.ipynb) -- Compare robustness of standard vs trimmed methods in outlier removal.
 
 ---
 
@@ -81,12 +81,12 @@ From the most recent Jupyter notebooks:
 
 ## About Me
 
-A self-taught, full-time student focused on software development, mathematics, and AI Saftey Theory.
+A self-taught, full-time student focused on Software Development, Mathematics, and AI Saftey Theory.
 
--   Studying since 2022 — developing fluency in Python and progressing rapidly in JavaScript and full-stack dev.
+-   Studying since 2022 -- developing fluency in Python and progressing rapidly in JavaScript and $\Rightwarrow$ math, data science and full-stack dev.
 -   Passionate about **AI Alignment and Safety**.
 -   Open to internships, junior dev roles, and meaningful collaboration.
--   Always learning — from bootcamps, online documentation/materials/books, and building real things.
+-   Trying to continually learn -- from bootcamps, online documentation/materials/books, and building real things.
 
 ---
 

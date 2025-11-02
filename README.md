@@ -83,7 +83,7 @@ From the most recent Jupyter notebooks:
 
 A self-taught, full-time student focused on Software Development, Mathematics, and AI Saftey Theory.
 
--   Studying since 2022 -- developing fluency in Python and progressing rapidly in JavaScript and $\Rightwarrow$ math, data science and full-stack dev.
+-   Studying since 2022 -- developing fluency in Python and progressing rapidly in JavaScript and $\Rightarrow$ math, data science and full-stack dev.
 -   Passionate about **AI Alignment and Safety**.
 -   Open to internships, junior dev roles, and meaningful collaboration.
 -   Trying to continually learn -- from bootcamps, online documentation/materials/books, and building real things.

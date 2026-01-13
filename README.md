@@ -92,4 +92,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 _Andrew Blais – Boston, MA_  
 GitHub: [github.com/andrewblais](https://github.com/andrewblais)  
-Website: [andrewblais.dev](https://wateronchair.com)
+Website: [wateronchair.com](https://wateronchair.com)

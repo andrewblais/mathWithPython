@@ -45,21 +45,15 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
+-   [**Manual Eigendecomposition, $2 \times 2$ Case**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la020_manual_eig_2x2.ipynb) -- Generates a clean random $2 \times 2$ matrix. Computes eigenvalues and eigenvectors manually. Verifies the results via `numpy.linalg.eig()`.
+
 -   [**Visualizing the Law of Large Numbers and the Central Limit Theorem**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml014_lln_clt.ipynb) -- Analyzes several distributions to demonstrate and visualize the law of large numbers and the central limit theorem.
 
--   [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) -- Harvest complex eigenvalues from random matrices, make something funky...
+-   [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) -- Harvests complex eigenvalues from random matrices. Makes something funky.
 
 -   [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) -- Takes mock data, builds a Least Squares model, visualizes and evaluates the results.
 
 -   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) -- Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of -- _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.
-
--   [**Gram-Schmidt Procedure**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la016_gram_schmidt.ipynb) -- Generating an orthonormal matrix manually through sequential vector projection and column vector subtraction.
-
--   [**PDFs vs. CDFs**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml013_pdf_cdf.ipynb) -- Building intuition around a probability density function and its cumulative distribution function through visualization.
-
--   [**Probability vs Odds**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml012_prob_odds.ipynb) -- Interactive explanation of odds vs probability, useful for classification models.
-
--   [**Z-scores vs Trimmed Means**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml011_z_vs_trim.ipynb) -- Compare robustness of standard vs trimmed methods in outlier removal.
 
 ---
 
@@ -98,4 +92,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 _Andrew Blais – Boston, MA_  
 GitHub: [github.com/andrewblais](https://github.com/andrewblais)  
-Website: [andrewblais.dev](https://www.andrewblais.dev)
+Website: [andrewblais.dev](https://wateronchair.com)

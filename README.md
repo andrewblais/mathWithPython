@@ -45,7 +45,7 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
--   [**Manual Eigendecomposition, 2x2 Case**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la020_manual_eig_2x2.ipynb) -- Generates a clean random 2 \times 2$ matrix. Computes eigenvalues and eigenvectors manually. Verifies the results via `numpy.linalg.eig()`.
+-   [**Manual Eigendecomposition, 2x2 Case**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la020_manual_eig_2x2.ipynb) -- Generates a clean random 2x2 matrix. Computes eigenvalues and eigenvectors manually. Verifies the results via `numpy.linalg.eig()`.
 
 -   [**Visualizing the Law of Large Numbers and the Central Limit Theorem**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml014_lln_clt.ipynb) -- Analyzes several distributions to demonstrate and visualize the law of large numbers and the central limit theorem.
 

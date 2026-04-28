@@ -33,9 +33,9 @@ It includes structured coursework-based exercises, hands-on problem solving, and
 
 ## Study Sources
 
--   [Mike X. Cohen – Linear Algebra (Udemy)](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
+- [Mike X. Cohen – Linear Algebra (Udemy)](https://www.udemy.com/course/linear-algebra-theory-and-implementation/)
 
--   [Mike X. Cohen – Statistics & Machine Learning (Udemy)](https://www.udemy.com/course/statsml_x/)
+- [Mike X. Cohen – Statistics & Machine Learning (Udemy)](https://www.udemy.com/course/statsml_x/)
 
 These courses emphasize a dual focus on **mathematical understanding** and **Python implementation**.
 
@@ -45,31 +45,31 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
--   [**Manual Eigendecomposition, 2x2 Case**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la020_manual_eig_2x2.ipynb) -- Generates a clean random 2x2 matrix. Computes eigenvalues and eigenvectors manually. Verifies the results via `numpy.linalg.eig()`.
+- [**Generalized Eigendecomposition: Two Methods**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la021_ged_two_forms.ipynb) -- Analyzing eigenvalues and eigenvectors of $A v = \lambda B v$ via both direct generalized eigendecomposition and the equivalent standard eigenproblem form $B^{-1}A v = \lambda v$.
 
--   [**Visualizing the Law of Large Numbers and the Central Limit Theorem**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml014_lln_clt.ipynb) -- Analyzes several distributions to demonstrate and visualize the law of large numbers and the central limit theorem.
+- [**Manual Eigendecomposition, 2x2 Case**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la020_manual_eig_2x2.ipynb) -- Generates a clean random 2x2 matrix. Computes eigenvalues and eigenvectors manually. Verifies the results via `numpy.linalg.eig()`.
 
--   [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) -- Harvests complex eigenvalues from random matrices. Makes something funky.
+- [**Visualizing the Law of Large Numbers and the Central Limit Theorem**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml014_lln_clt.ipynb) -- Analyzes several distributions to demonstrate and visualize the law of large numbers and the central limit theorem.
 
--   [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) -- Takes mock data, builds a Least Squares model, visualizes and evaluates the results.
+- [**Complex Eigenvalue Art**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la019_complex_eigvalue_art.ipynb) -- Harvests complex eigenvalues from random matrices. Makes something funky.
 
--   [**QR Decomposition: Manipulation, Inverse, Validation**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la017_qr_dcmp_inv.ipynb) -- Take the Identity Matrix and add/subtract a Rank 1 Matrix (formed from two vectors) of -- _a.k.a._ a Rank-1 Update. Factor with QR decomposition, reconstruct, verify the inverse. Run numerical and visual checks.
+- [**Least Squares Modeling and Analysis**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la018_lst_sq.ipynb) -- Takes mock data, builds a Least Squares model, visualizes and evaluates the results.
 
 ---
 
 ## Skills Practiced
 
--   **Math Domains**:
-    -   Linear Algebra, Statistics, and Machine Learning fundamentals
--   **Python Development**:
-    -   OOP and modular scripting
-    -   Jupyter Notebooks + LaTeX math rendering
-    -   NumPy, SymPy, Matplotlib, Seaborn, Plotly
-    -   Custom visualizations and exploratory analysis
--   **Web Development (parallel study)**:
-    -   Full-Stack JavaScript (Node.js, React, Express)
-    -   Flask (Python)
-    -   SQL/PostgreSQL databases
+- **Math Domains**:
+    - Linear Algebra, Statistics, and Machine Learning fundamentals
+- **Python Development**:
+    - OOP and modular scripting
+    - Jupyter Notebooks + LaTeX math rendering
+    - NumPy, SymPy, Matplotlib, Seaborn, Plotly
+    - Custom visualizations and exploratory analysis
+- **Web Development (parallel study)**:
+    - Full-Stack JavaScript (Node.js, React, Express)
+    - Flask (Python)
+    - SQL/PostgreSQL databases
 
 ---
 
@@ -77,10 +77,10 @@ From the most recent Jupyter notebooks:
 
 A self-taught, full-time student focused on Software Development, Mathematics, and AI Saftey Theory.
 
--   Studying since 2022 -- developing fluency in Python and progressing rapidly in JavaScript and $\Rightarrow$ math, data science and full-stack dev.
--   Passionate about **AI Alignment and Safety**.
--   Open to internships, junior dev roles, and meaningful collaboration.
--   Trying to continually learn -- from bootcamps, online documentation/materials/books, and building real things.
+- Studying since 2022 -- developing fluency in Python and progressing rapidly in JavaScript and $\Rightarrow$ math, data science and full-stack dev.
+- Passionate about **AI Alignment and Safety**.
+- Open to internships, junior dev roles, and meaningful collaboration.
+- Trying to continually learn -- from bootcamps, online documentation/materials/books, and building real things.
 
 ---
 

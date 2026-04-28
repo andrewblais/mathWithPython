@@ -75,12 +75,19 @@ From the most recent Jupyter notebooks:
 
 ## About Me
 
-A self-taught, full-time student focused on Software Development, Mathematics, and AI Saftey Theory.
+A self-taught, full-time student focused on Data Science, Mathematics, Software Development, and AI Safety Theory.
 
-- Studying since 2022 -- developing fluency in Python and progressing rapidly in JavaScript and $\Rightarrow$ math, data science and full-stack dev.
-- Passionate about **AI Alignment and Safety**.
-- Open to internships, junior dev roles, and meaningful collaboration.
-- Trying to continually learn -- from bootcamps, online documentation/materials/books, and building real things.
+Coursework studied since 2022:
+
+- Python for Math, Data Science, Application Development and Web Development.
+- Linear Algebra, Statistics, Machine Learning, Calculus and Number Theory, implemented with Python.
+- JavaScript (ESM/Express/React) for application development and full-stack web development.
+
+Passionate about **AI Alignment and Safety**.
+
+Open to internships, junior dev roles, and meaningful collaboration.
+
+Trying to continually learn -- from bootcamps, online documentation/materials/books, and building real things.
 
 ---
 

@@ -45,7 +45,7 @@ These courses emphasize a dual focus on **mathematical understanding** and **Pyt
 
 From the most recent Jupyter notebooks:
 
-- [**Generalized Eigendecomposition: Two Methods**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la021_ged_two_methods.ipynb) -- Analyzing eigenvalues and eigenvectors of $A v = \lambda B v$ via both direct generalized eigendecomposition (`eig(A, B)`) and the equivalent standard eigenproblem form $B^{-1}A v = \lambda v$.
+- [**Generalized Eigendecomposition: Two Methods**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la021_ged_two_methods.ipynb) -- Analyzing eigenvalues and eigenvectors of $A v = \lambda B v$ via both direct generalized eigendecomposition `eig(A, B)` and the equivalent standard eigenproblem form $B^{-1}A v = \lambda v$.
 
 - [**Manual Eigendecomposition, 2x2 Case**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la020_manual_eig_2x2.ipynb) -- Generates a clean random 2x2 matrix. Computes eigenvalues and eigenvectors manually. Verifies the results via `numpy.linalg.eig()`.
 

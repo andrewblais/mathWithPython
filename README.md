@@ -61,8 +61,9 @@ From the most recent Jupyter notebooks:
 
 ## Skills Practiced
 
-- **Math Domains**:
+- **Math/ML/AI Domains**:
     - Linear Algebra, Statistics, and Machine Learning fundamentals
+    - LLM Model Mechanisms and Mechanistic Interpretability
 - **Python Development**:
     - OOP and modular scripting
     - Jupyter Notebooks + LaTeX math rendering

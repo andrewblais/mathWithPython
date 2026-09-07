@@ -11,9 +11,9 @@
 
 ## About the Repository
 
-This repo reflects homework/practice/projects I worked on as a self-taught developer learning mathematics and applied programming.
+This repo reflects my homework/practice/projects as a self-taught developer learning mathematics and applied programming in an effort to work on AI Safety and Alignment.
 
-It includes structured coursework-based exercises, hands-on problem solving, and exploratory math projects developed independently.
+It includes structured [**coursework-based exercises**](#study-sources), hands-on problem solving, and will soon include independently developed exploratory projects.
 
 ---
 
@@ -37,13 +37,15 @@ It includes structured coursework-based exercises, hands-on problem solving, and
 
 - [Mike X. Cohen – Statistics & Machine Learning (Udemy)](https://www.udemy.com/course/statsml_x/)
 
-These courses emphasize a dual focus on **mathematical understanding** and **Python implementation**.
+These courses emphasize a dual focus on **mathematical understanding** and **Python/MATLAB implementation**.
 
 ---
 
 ## Highlights
 
 From the most recent Jupyter notebooks:
+
+- [**The t-test, et alia**](https://github.com/andrewblais/mathWithPython/blob/main/statsMachineLearning/sml015_t_test_et_alia.ipynb) -- What I've learned about the t-test so far: assumptions, parameters, practical applications, constraints.
 
 - [**Generalized Eigendecomposition: Two Methods**](https://github.com/andrewblais/mathWithPython/blob/main/linearAlgebra/la021_ged_two_methods.ipynb) -- Analyzing eigenvalues and eigenvectors of $A v = \lambda B v$ via both direct generalized eigendecomposition `eig(A, B)` and the equivalent standard eigenproblem form $B^{-1}A v = \lambda v$.
 
@@ -80,14 +82,16 @@ A self-taught, full-time student focused on Data Science, Mathematics, Software 
 Coursework studied since 2022:
 
 - Python for Math, Data Science, Application Development and Web Development.
+
 - Linear Algebra, Statistics, Machine Learning, Calculus and Number Theory, implemented with Python.
+
 - JavaScript (ESM/Express/React) for application development and full-stack web development.
 
 Passionate about **AI Alignment and Safety**.
 
 Open to internships, junior dev roles, and meaningful collaboration.
 
-Trying to continually learn -- from bootcamps, online documentation/materials/books, and building real things.
+Trying to continually learn -- from bootcamps, online documentation/materials/books/audio/video, collaboration/conversation/apprenticeship, and building real things.
 
 ---
 

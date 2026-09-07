@@ -5,7 +5,7 @@
 ![Math/AI Focused](https://img.shields.io/badge/Focus-Math%2FAI-blueviolet.svg)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-> A collection of math-related notebooks and scripts paralleling my studies in **Linear Algebra**, **Statistics**, **Machine Learning**, **Deep Learning**, **LLM Model Mechanisms** and **AI Safety**.
+> A collection of math- and AI-related notebooks and scripts paralleling my studies in **Linear Algebra**, **Statistics**, **Machine Learning**, **Deep Learning**, **LLM Model Mechanisms** and **AI Safety**.
 
 ---
 

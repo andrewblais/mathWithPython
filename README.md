@@ -23,8 +23,9 @@ It includes structured [**coursework-based exercises**](#study-sources), hands-o
 .
 ├── linearAlgebra/            # Exercises from Linear Algebra coursework
 ├── statsMachineLearning/     # Exercises from Stats & Machine Learning coursework
-├── variousProjects/          # Independent math projects and experiments (Forthcoming!)
 ├── templates/                # Reusable notebook/script templates for notes
+├── variousProjects/          # Independent math projects and experiments (Forthcoming!)
+├── wordsEtAlia/              # Writings in some way related to AI Safety and Alignment
 ├── requirements.txt          # Project dependencies
 └── LICENSE                   # MIT License
 ```
